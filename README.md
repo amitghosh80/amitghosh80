@@ -11,11 +11,11 @@ This account is where I do that. Most of it is AI-first: take something messy, p
 **[personalCFO](https://github.com/amitghosh80/personalCFO)** - Upload bank and card statements (CSV or PDF), get transactions parsed, classified, and encrypted, then ask a Claude-powered assistant about your spending. FastAPI + SQLModel backend, Next.js/TypeScript frontend, multi-tenant auth.
 [Link](https://personalcfo.agency)
 
+**[quadrantlife](https://github.com/amitghosh80/quadrantlife)** - Eisenhower-matrix task manager built around roles and goals rather than just deadlines. React/TypeScript + Supabase. [Link](https://quadrantlife.org)
+
 **[budget-spend-analyzer](https://github.com/amitghosh80/budget-spend-analyzer)** - The lighter, privacy-first cousin: PDF statements in, monthly cashflow out. Rules-based categorization with a Claude fallback, AES-256-GCM encrypted storage, 48-hour auto-delete. Python/FastAPI + React.
 
 **[photo-manager](https://github.com/amitghosh80/photo-manager)** - Rank and shortlist a folder of trip photos. Classic CV for sharpness/exposure, Claude vision for composition, perceptual hashing for near-duplicates. About $0.10 per 100 photos with prompt caching.
-
-**[quadrantlife](https://github.com/amitghosh80/quadrantlife)** - Eisenhower-matrix task manager built around roles and goals rather than just deadlines. React/TypeScript + Supabase. [Link](https://quadrantlife.org)
 
 ## How I work
 
