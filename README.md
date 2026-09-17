@@ -21,7 +21,7 @@ This account is where I do that. Most of it is AI-first: take something messy, p
 
 - Start from a real problem I have, not a tech I want to try
 - Ship the end-to-end thin slice first, then decide if it deserves more
-- Treat model output as untrusted until it's measured — same rule at work and here
+- Treat model output as untrusted until it's measured - same rule at work and here
 - Python / FastAPI on the back, React / TypeScript on the front, Claude in the loop
 
 ## Elsewhere
